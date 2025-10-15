@@ -1,5 +1,5 @@
 
-</head>
+
 <body>
 <form>
     <div id="content">
