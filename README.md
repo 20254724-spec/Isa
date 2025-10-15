@@ -1,4 +1,15 @@
-
+    #content{
+            background-color:lightpink;
+            margin: auto;
+            width: 1190px;
+            font-family: sans-serif;
+        }
+       #bio{
+            font-family: sans-serif;
+            float:right;
+            
+            
+        
 
 <body>
 <form>
