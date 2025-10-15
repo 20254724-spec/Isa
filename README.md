@@ -11,8 +11,7 @@
     Password <br><input type="password"><br>
     Age <br><input type="number">
         </fieldset>
-    </form>
-    <form >
+ 
         <fieldset>
             <legend>Preferences</legend>
     <br>
@@ -33,12 +32,5 @@
 
    <div id="bio"><button>Reset</button>
     <button>Submmit</button></div>
+    <form>
 
-    
-    </form>
-    
-    
-    </div>
-    
-</body>
-</html>
