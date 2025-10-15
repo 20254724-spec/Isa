@@ -1,19 +1,4 @@
 
-    <style>
-        #content{
-            background-color:lightpink;
-            margin: auto;
-            width: 1190px;
-            font-family: sans-serif;
-        }
-       #bio{
-            font-family: sans-serif;
-            float:right;
-            
-            
-        }
-
-    </style>
 </head>
 <body>
 <form>
@@ -45,8 +30,7 @@
         <option value="Country"> United States</option>
         <option value="Country"> south korea</option>
     </select><br>
-   <div id="text">Short bio <br><input type="textarea"width="500px"></div>
-   
+
    <div id="bio"><button>Reset</button>
     <button>Submmit</button></div>
 
